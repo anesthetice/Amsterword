@@ -1,0 +1,9 @@
+{
+  "number_of_players": 4,
+  "hint_system": true,
+  "hint_probability_anomaly": 0.66,
+  "hint_probability_generic": 0.15,
+  "lexicon": [
+    "bear", "fridge"
+  ]
+}
