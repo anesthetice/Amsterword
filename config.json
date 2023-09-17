@@ -4,6 +4,11 @@
   "hint_probability_anomaly": 0.66,
   "hint_probability_generic": 0.15,
   "lexicon": [
-    "bear", "fridge"
+    "sports car", "jetski", "wine", "champagne", "lemonade", "orange juice", "pineapple on pizza",
+    "bolognese", "dumplings", "junk food", "japanese snacks", "american snacks", "british food", "corn flakes", "a dishwasher",
+    "fridge", "oven", "air fan", "air fryer", "elevator", "bathroom", "punk music", "pop music", "rap", "graffiti", "renaissance", "industrial revolution",
+    "antiquity", "france", "norway", "switzerland", "canada", "shenzen", "amsterdam", "london", "bear", "fox", "cow", "walrus",
+    "seal", "elephant", "giraffe", "penguin", "crow", "soap", "deodorant", "towel", "the beach", "sunset", "dawn", "rain", "space",
+    "the sea", "the sahara", "the himalayas", "the alps", "the gobi dessert", "the rockies"
   ]
 }
