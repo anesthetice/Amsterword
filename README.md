@@ -1,13 +1,13 @@
-### Amsterword - a suspensful word guessing game
+## Amsterword - a simple yet fun and suspensful multiplayer word game
 
-#### installation
+### installation
 
 * download and install the rust compiler (https://www.rust-lang.org/learn/get-started)
 * clone this repository using git or simply download it as a zip
 * open a terminal inside the project and enter 'cargo run'
 * alternatively you could instead enter 'cargo build --release' and then run the executable found in ./target/release
 
-#### usage
+### usage
 
 * you can interact with the game's settings by modifying 'config.json'
 * number_of_players: self-explanatory
@@ -16,3 +16,5 @@
 * hint_probability_anomaly: the probability [0.0, 1.0] that the unique word will be shown in red instead of green
 * hint_probability_generic: the probability [0.0, 1.0] that a generic word will be shown in red instead of green
 * lexicon: the words that can appear (at least 2 needed)
+
+Lastly I highly recommend you add your own words to the lexicon
